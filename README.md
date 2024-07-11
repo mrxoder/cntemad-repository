@@ -47,7 +47,7 @@ En tant qu'université basée sur l'enseignement à distance, un chatbot servira
 | ♂️ **Brillant**           | -            | Info     | M2     | BDGL     | [Bri11ant](https://github.com/Bri11ant)                     |
 | ♂️ **Toky**               | -            | Info     | M2     | BDGL     | [Gituxmanjaka](https://github.com/gituxmanjaka)             |
 | ♂️ **Stany**              | -            | Info     | M2     | BDGL     | [Stany Nilaina](https://github.com/StanyNilaina)            |
-| ♂️ **Xoder**              | -            | Info     | L1     | BDGL     | [Mr xoder](https://github.com/­mrxoder)                     |
+| ♂️ **Xoder**              | -            | Info     | M1     | BDGL     | [Mr xoder](https://github.com/­mrxoder)                     |
 | ♂️ **a2d**                | -            | Info     | L1     | BDGL     | [Annael007](https://github.com/Annael007)                   |
 | ♀️ **Fahendrena**         | -            | Info     | M1     | RS       | [Fahendrena](https://github.com/Fahendrena)                 |
 | ♂️ **Wenceslas-Angelo**   | -            | Info     | L1     | BDGL     | [Angelo](https://github.com/Wenceslas-Angelo)               |
